@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:385px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,7 +14,7 @@
 }
 #u0 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:0px;
   width:375px;
   height:667px;
@@ -36,7 +36,7 @@
 }
 #u2 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:63px;
   width:375px;
   height:604px;
@@ -58,7 +58,7 @@
 }
 #u4 {
   position:absolute;
-  left:11px;
+  left:1px;
   top:292px;
   width:373px;
   height:52px;
@@ -80,7 +80,7 @@
 }
 #u6 {
   position:absolute;
-  left:343px;
+  left:333px;
   top:307px;
   width:25px;
   height:25px;
@@ -102,7 +102,7 @@
 }
 #u8 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:344px;
   width:379px;
   height:269px;
@@ -213,7 +213,7 @@
 }
 #u17 {
   position:absolute;
-  left:158px;
+  left:148px;
   top:31px;
   width:79px;
   height:22px;
@@ -240,7 +240,7 @@
 }
 #u19 {
   position:absolute;
-  left:11px;
+  left:1px;
   top:63px;
   width:374px;
   height:228px;
@@ -262,7 +262,7 @@
 }
 #u21 {
   position:absolute;
-  left:100px;
+  left:90px;
   top:93px;
   width:196px;
   height:28px;
@@ -288,7 +288,7 @@
 }
 #u23 {
   position:absolute;
-  left:11px;
+  left:1px;
   top:80px;
   width:89px;
   height:63px;
@@ -310,7 +310,7 @@
 }
 #u25 {
   position:absolute;
-  left:165px;
+  left:155px;
   top:217px;
   width:220px;
   height:77px;
@@ -332,7 +332,7 @@
 }
 #u27 {
   position:absolute;
-  left:301px;
+  left:291px;
   top:361px;
   width:70px;
   height:33px;
@@ -358,7 +358,7 @@
 }
 #u29 {
   position:absolute;
-  left:301px;
+  left:291px;
   top:427px;
   width:70px;
   height:33px;
@@ -384,7 +384,7 @@
 }
 #u31 {
   position:absolute;
-  left:301px;
+  left:291px;
   top:493px;
   width:70px;
   height:33px;
@@ -410,7 +410,7 @@
 }
 #u33 {
   position:absolute;
-  left:301px;
+  left:291px;
   top:560px;
   width:70px;
   height:33px;
@@ -436,7 +436,7 @@
 }
 #u35 {
   position:absolute;
-  left:6px;
+  left:-4px;
   top:370px;
   width:26px;
   height:15px;
@@ -462,7 +462,7 @@
 }
 #u37 {
   position:absolute;
-  left:6px;
+  left:-4px;
   top:436px;
   width:26px;
   height:15px;
@@ -488,7 +488,7 @@
 }
 #u39 {
   position:absolute;
-  left:6px;
+  left:-4px;
   top:502px;
   width:26px;
   height:15px;
@@ -514,7 +514,7 @@
 }
 #u41 {
   position:absolute;
-  left:6px;
+  left:-4px;
   top:569px;
   width:26px;
   height:15px;

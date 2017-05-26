@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:385px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,7 +14,7 @@
 }
 #u0 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:0px;
   width:375px;
   height:667px;
@@ -36,7 +36,7 @@
 }
 #u2 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:63px;
   width:375px;
   height:604px;
@@ -58,7 +58,7 @@
 }
 #u4 {
   position:absolute;
-  left:161px;
+  left:151px;
   top:31px;
   width:73px;
   height:22px;
@@ -84,7 +84,7 @@
 }
 #u6 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:63px;
   width:375px;
   height:228px;
@@ -106,7 +106,7 @@
 }
 #u8 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:63px;
   width:170px;
   height:218px;
@@ -128,7 +128,7 @@
 }
 #u10 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:291px;
   width:187px;
   height:188px;
@@ -150,7 +150,7 @@
 }
 #u12 {
   position:absolute;
-  left:196px;
+  left:186px;
   top:478px;
   width:189px;
   height:189px;
@@ -172,7 +172,7 @@
 }
 #u14 {
   position:absolute;
-  left:196px;
+  left:186px;
   top:385px;
   width:189px;
   height:94px;
@@ -194,7 +194,7 @@
 }
 #u16 {
   position:absolute;
-  left:196px;
+  left:186px;
   top:291px;
   width:189px;
   height:96px;
@@ -216,7 +216,7 @@
 }
 #u18 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:571px;
   width:187px;
   height:96px;
@@ -238,7 +238,7 @@
 }
 #u20 {
   position:absolute;
-  left:10px;
+  left:0px;
   top:478px;
   width:187px;
   height:94px;
@@ -260,7 +260,7 @@
 }
 #u22 {
   position:absolute;
-  left:203px;
+  left:193px;
   top:106px;
   width:140px;
   height:24px;
@@ -284,7 +284,7 @@
 }
 #u24 {
   position:absolute;
-  left:203px;
+  left:193px;
   top:168px;
   width:140px;
   height:56px;
@@ -311,7 +311,7 @@
 }
 #u26 {
   position:absolute;
-  left:45px;
+  left:35px;
   top:353px;
   width:115px;
   height:115px;
@@ -333,7 +333,7 @@
 }
 #u28 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:310px;
   width:90px;
   height:19px;
@@ -356,7 +356,7 @@
 }
 #u30 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:325px;
   width:87px;
   height:19px;
@@ -379,7 +379,7 @@
 }
 #u32 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:411px;
   width:87px;
   height:19px;
@@ -402,7 +402,7 @@
 }
 #u34 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:510px;
   width:87px;
   height:19px;
@@ -425,7 +425,7 @@
 }
 #u36 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:600px;
   width:87px;
   height:19px;
@@ -448,7 +448,7 @@
 }
 #u38 {
   position:absolute;
-  left:329px;
+  left:319px;
   top:326px;
   width:51px;
   height:45px;
@@ -470,7 +470,7 @@
 }
 #u40 {
   position:absolute;
-  left:329px;
+  left:319px;
   top:420px;
   width:51px;
   height:48px;
@@ -492,7 +492,7 @@
 }
 #u42 {
   position:absolute;
-  left:135px;
+  left:125px;
   top:510px;
   width:51px;
   height:53px;
@@ -514,7 +514,7 @@
 }
 #u44 {
   position:absolute;
-  left:136px;
+  left:126px;
   top:615px;
   width:50px;
   height:39px;
@@ -536,7 +536,7 @@
 }
 #u46 {
   position:absolute;
-  left:233px;
+  left:223px;
   top:547px;
   width:115px;
   height:115px;
@@ -558,7 +558,7 @@
 }
 #u48 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:497px;
   width:129px;
   height:19px;
@@ -582,7 +582,7 @@
 }
 #u50 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:349px;
   width:124px;
   height:15px;
@@ -605,7 +605,7 @@
 }
 #u52 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:436px;
   width:124px;
   height:15px;
@@ -628,7 +628,7 @@
 }
 #u54 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:535px;
   width:124px;
   height:15px;
@@ -651,7 +651,7 @@
 }
 #u56 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:625px;
   width:124px;
   height:15px;
@@ -674,7 +674,7 @@
 }
 #u58 {
   position:absolute;
-  left:25px;
+  left:15px;
   top:332px;
   width:124px;
   height:15px;
@@ -697,7 +697,7 @@
 }
 #u60 {
   position:absolute;
-  left:231px;
+  left:221px;
   top:518px;
   width:124px;
   height:15px;
